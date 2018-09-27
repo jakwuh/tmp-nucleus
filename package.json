@@ -1,5 +1,5 @@
 {
-  "name": "@jakwuh/tmp-nucleus",
+  "name": "tmp-nucleus",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"
